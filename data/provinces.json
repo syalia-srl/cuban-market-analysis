@@ -1,0 +1,86 @@
+{
+  "taxonomy": [
+    {
+      "id": "4",
+      "name": "Pinar del Río"
+    },
+    {
+      "id": "2",
+      "name": "Artemisa"
+    },
+    {
+      "id": "3",
+      "name": "Mayabeque"
+    },
+    {
+      "id": "1",
+      "name": "La Habana"
+    },
+    {
+      "id": "5",
+      "name": "Isla de la Juventud"
+    },
+    {
+      "id": "6",
+      "name": "Matanzas"
+    },
+    {
+      "id": "7",
+      "name": "Cienfuegos"
+    },
+    {
+      "id": "8",
+      "name": "Villa Clara"
+    },
+    {
+      "id": "9",
+      "name": "Sancti Spíritus"
+    },
+    {
+      "id": "10",
+      "name": "Ciego de Ávila"
+    },
+    {
+      "id": "11",
+      "name": "Camagüey"
+    },
+    {
+      "id": "12",
+      "name": "Las Tunas"
+    },
+    {
+      "id": "13",
+      "name": "Holguín"
+    },
+    {
+      "id": "14",
+      "name": "Granma"
+    },
+    {
+      "id": "15",
+      "name": "Santiago de Cuba"
+    },
+    {
+      "id": "16",
+      "name": "Guantánamo"
+    }
+  ],
+  "totals": {
+    "1": 28184,
+    "2": 127,
+    "13": 44,
+    "6": 71,
+    "8": 57,
+    "5": 6,
+    "11": 26,
+    "4": 19,
+    "12": 22,
+    "9": 11,
+    "3": 53,
+    "15": 26,
+    "10": 11,
+    "7": 11,
+    "16": 15,
+    "14": 7
+  }
+}

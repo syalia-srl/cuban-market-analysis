@@ -1,0 +1,553 @@
+{
+  "taxonomy": [
+    {
+      "id": "1001",
+      "slug": "vehiculos-motos-electricas-y-triciclos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1002",
+      "slug": "vehiculos-motos-de-combustion",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1003",
+      "slug": "vehiculos-repuestos-y-accesorios-de-motos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1004",
+      "slug": "vehiculos-carros",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1005",
+      "slug": "vehiculos-repuestos-y-accesorios-de-carros",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1006",
+      "slug": "vehiculos-bicicletas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1007",
+      "slug": "vehiculos-alquiler-de-carros",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1008",
+      "slug": "vehiculos-otros-vehiculos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1000",
+      "slug": "vehiculos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1101",
+      "slug": "inmobiliaria-casas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1102",
+      "slug": "inmobiliaria-alquiler-a-cubanos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1103",
+      "slug": "inmobiliaria-alquiler-a-extranjeros",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1104",
+      "slug": "inmobiliaria-alquiler-vacacional",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1105",
+      "slug": "inmobiliaria-permutas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1106",
+      "slug": "inmobiliaria-otros-inmobiliaria",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1100",
+      "slug": "inmobiliaria",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1201",
+      "slug": "tecnologia-celulares-y-accesorios",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1202",
+      "slug": "tecnologia-televisores-e-imagen",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1203",
+      "slug": "tecnologia-computadoras-y-tablets",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1204",
+      "slug": "tecnologia-accesorios-de-computadoras",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1205",
+      "slug": "tecnologia-consolas-y-videojuegos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1206",
+      "slug": "tecnologia-audifonos-bocinas-y-sonido",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1207",
+      "slug": "tecnologia-camaras-y-fotografia",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1208",
+      "slug": "tecnologia-otros-tecnologia",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1200",
+      "slug": "tecnologia",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1301",
+      "slug": "empleos-ofertas-de-empleo",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1302",
+      "slug": "empleos-busco-empleo",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1300",
+      "slug": "empleos_",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1401",
+      "slug": "ropa-y-accesorios-ropa-de-mujer",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1402",
+      "slug": "ropa-y-accesorios-zapatos-de-mujer",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1403",
+      "slug": "ropa-y-accesorios-ropa-de-hombre",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1404",
+      "slug": "ropa-y-accesorios-zapatos-de-hombre",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1405",
+      "slug": "ropa-y-accesorios-relojes-joyas-y-accesorios",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1406",
+      "slug": "ropa-y-accesorios-belleza-maquillaje-y-perfumes",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1407",
+      "slug": "ropa-y-accesorios-otros-ropa-y-accesorios",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1400",
+      "slug": "ropa-y-accesorios",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1501",
+      "slug": "servicios-construccion-y-mantenimiento",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1502",
+      "slug": "servicios-catering-y-comida-a-domicilio",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1503",
+      "slug": "servicios-belleza-salud-y-cuidado-personal",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1504",
+      "slug": "servicios-talleres-y-reparaciones",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1505",
+      "slug": "servicios-eventos-y-entretenimiento",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1506",
+      "slug": "servicios-limpieza-y-cuidado",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1507",
+      "slug": "servicios-clases-y-cursos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1508",
+      "slug": "servicios-informatica-creatividad-y-marketing",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1509",
+      "slug": "servicios-transporte-y-logistica",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1510",
+      "slug": "servicios-otros-servicios",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1500",
+      "slug": "servicios_",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1601",
+      "slug": "electrodomesticos-refrigeradores-y-neveras",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1602",
+      "slug": "electrodomesticos-lavadoras-y-secadoras",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1603",
+      "slug": "electrodomesticos-cocinas-y-hornos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1604",
+      "slug": "electrodomesticos-ventiladores",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1605",
+      "slug": "electrodomesticos-aire-acondicionado",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1606",
+      "slug": "electrodomesticos-pequeno-electrodomestico",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1607",
+      "slug": "electrodomesticos-otros-electrodomesticos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1600",
+      "slug": "electrodomesticos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1701",
+      "slug": "hogar-muebles",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1702",
+      "slug": "hogar-arte-antiguedades-y-coleccion",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1703",
+      "slug": "hogar-plantas-y-estaciones-de-energia",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1704",
+      "slug": "hogar-materiales-de-construccion",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1705",
+      "slug": "hogar-ferreteria-y-herramientas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1706",
+      "slug": "hogar-articulos-del-hogar",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1707",
+      "slug": "hogar-otros-hogar",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1700",
+      "slug": "hogar",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1801",
+      "slug": "familia-salud-y-bienestar",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1802",
+      "slug": "familia-alimentos-y-bebidas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1803",
+      "slug": "familia-ropa-y-zapatos-de-ninos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1804",
+      "slug": "familia-articulos-de-bebe",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1805",
+      "slug": "familia-juguetes",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1806",
+      "slug": "familia-utiles-escolares-y-mochilas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1807",
+      "slug": "familia-otros-familia",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1800",
+      "slug": "familia",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1901",
+      "slug": "general-productos-para-mascotas",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1902",
+      "slug": "general-instrumentos-musicales",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1903",
+      "slug": "general-articulos-deportivos",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1904",
+      "slug": "general-suplementos-y-nutricion-deportiva",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1905",
+      "slug": "general-peliculas-musica-y-libros",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1906",
+      "slug": "general-otros-general",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    },
+    {
+      "id": "1900",
+      "slug": "general",
+      "name_es": null,
+      "name_en": null,
+      "parent_id": null
+    }
+  ],
+  "totals": {
+    "_unknown": 28690
+  }
+}

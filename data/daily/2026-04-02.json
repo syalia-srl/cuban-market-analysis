@@ -1,0 +1,51 @@
+{
+  "total_ads": 104,
+  "by_category": {
+    "_unknown": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 104,
+      "prices": {
+        "USD": {
+          "n": 88,
+          "median": 345.0,
+          "p25": 150.0,
+          "p75": 468.75,
+          "mean": 330.64,
+          "min": 1.0,
+          "max": 960.0
+        },
+        "CUP": {
+          "n": 9,
+          "median": 8000.0,
+          "p25": 2000.0,
+          "p75": 11000.0,
+          "mean": 9115.0,
+          "min": 35.0,
+          "max": 25000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "7": {
+      "name": "Cienfuegos",
+      "count": 1
+    },
+    "1": {
+      "name": "La Habana",
+      "count": 101
+    },
+    "10": {
+      "name": "Ciego de Ávila",
+      "count": 1
+    },
+    "3": {
+      "name": "Mayabeque",
+      "count": 1
+    }
+  },
+  "date": "2026-04-02",
+  "window": "day"
+}

@@ -1,0 +1,55 @@
+{
+  "total_ads": 461,
+  "by_category": {
+    "_unknown": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 461,
+      "prices": {
+        "CUP": {
+          "n": 70,
+          "median": 1300.0,
+          "p25": 310.0,
+          "p75": 7500.0,
+          "mean": 5187.31,
+          "min": 1.0,
+          "max": 50000.0
+        },
+        "USD": {
+          "n": 361,
+          "median": 40.0,
+          "p25": 11.11,
+          "p75": 250.0,
+          "mean": 34463.37,
+          "min": 1.0,
+          "max": 12345578.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 457
+    },
+    "3": {
+      "name": "Mayabeque",
+      "count": 1
+    },
+    "4": {
+      "name": "Pinar del Río",
+      "count": 1
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 1
+    },
+    "15": {
+      "name": "Santiago de Cuba",
+      "count": 1
+    }
+  },
+  "date": "2026-05-02",
+  "window": "day"
+}

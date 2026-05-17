@@ -1,0 +1,39 @@
+{
+  "total_ads": 113,
+  "by_category": {
+    "_unknown": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 113,
+      "prices": {
+        "USD": {
+          "n": 93,
+          "median": 265.0,
+          "p25": 99.0,
+          "p75": 400.0,
+          "mean": 315.69,
+          "min": 1.0,
+          "max": 2900.0
+        },
+        "CUP": {
+          "n": 2,
+          "median": 37500.0,
+          "p25": 31250.0,
+          "p75": 43750.0,
+          "mean": 37500.0,
+          "min": 25000.0,
+          "max": 50000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 113
+    }
+  },
+  "date": "2026-04-15",
+  "window": "day"
+}

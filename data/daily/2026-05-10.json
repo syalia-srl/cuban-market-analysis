@@ -1,0 +1,55 @@
+{
+  "total_ads": 390,
+  "by_category": {
+    "_unknown": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 390,
+      "prices": {
+        "CUP": {
+          "n": 60,
+          "median": 1.0,
+          "p25": 1.0,
+          "p75": 625.0,
+          "mean": 2897.33,
+          "min": 1.0,
+          "max": 103000.0
+        },
+        "USD": {
+          "n": 273,
+          "median": 80.0,
+          "p25": 20.0,
+          "p75": 290.0,
+          "mean": 687.1,
+          "min": 1.0,
+          "max": 111111.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 385
+    },
+    "7": {
+      "name": "Cienfuegos",
+      "count": 1
+    },
+    "2": {
+      "name": "Artemisa",
+      "count": 2
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 1
+    },
+    "9": {
+      "name": "Sancti Spíritus",
+      "count": 1
+    }
+  },
+  "date": "2026-05-10",
+  "window": "day"
+}

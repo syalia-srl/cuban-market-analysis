@@ -1,0 +1,63 @@
+{
+  "total_ads": 655,
+  "by_category": {
+    "_unknown": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 655,
+      "prices": {
+        "USD": {
+          "n": 526,
+          "median": 89.0,
+          "p25": 15.25,
+          "p75": 280.0,
+          "mean": 457.85,
+          "min": 1.0,
+          "max": 111111.0
+        },
+        "CUP": {
+          "n": 74,
+          "median": 2000.0,
+          "p25": 555.0,
+          "p75": 5500.0,
+          "mean": 4959.92,
+          "min": 1.0,
+          "max": 40000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 638
+    },
+    "2": {
+      "name": "Artemisa",
+      "count": 11
+    },
+    "8": {
+      "name": "Villa Clara",
+      "count": 1
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 2
+    },
+    "5": {
+      "name": "Isla de la Juventud",
+      "count": 1
+    },
+    "11": {
+      "name": "Camagüey",
+      "count": 1
+    },
+    "10": {
+      "name": "Ciego de Ávila",
+      "count": 1
+    }
+  },
+  "date": "2026-05-11",
+  "window": "day"
+}

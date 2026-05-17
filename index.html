@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Cuban Market Analysis — Observatorio del mercado informal cubano</title>
+  <meta name="description" content="Observatorio diario de anuncios del mercado informal cubano. Datos agregados de Revolico, con conteos y precios por categoría, día a día y mes a mes." />
+  <meta property="og:title" content="Cuban Market Analysis" />
+  <meta property="og:description" content="Observatorio del mercado informal cubano" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%87%A8%F0%9F%87%BA%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+  <header>
+    <h1>Cuban Market Analysis</h1>
+    <p class="subtitle">Observatorio del mercado informal cubano · datos diarios de <a href="https://www.revolico.com/" rel="noopener" target="_blank">Revolico</a></p>
+  </header>
+
+  <main>
+    <section class="cards" id="cards">
+      <div class="card"><div class="label">Anuncios últimas 24 h</div><div class="value" data-window="24h">—</div></div>
+      <div class="card"><div class="label">Últimos 7 días</div><div class="value" data-window="7d">—</div></div>
+      <div class="card"><div class="label">Últimos 30 días</div><div class="value" data-window="30d">—</div></div>
+      <div class="card"><div class="label">Total acumulado</div><div class="value" data-window="all">—</div></div>
+    </section>
+
+    <section>
+      <h2>Por categoría (ventana 30 días)</h2>
+      <p class="hint">Conteos y precio mediano por moneda. Click en la fila para ver detalle.</p>
+      <div class="table-wrap">
+        <table id="cat-table">
+          <thead>
+            <tr>
+              <th>Categoría</th>
+              <th class="num">Anuncios 30 d</th>
+              <th class="num">Mediana USD</th>
+              <th class="num">Mediana CUP</th>
+              <th class="num">Otros</th>
+            </tr>
+          </thead>
+          <tbody><tr><td colspan="5">Cargando…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Evolución últimos 30 días</h2>
+      <p class="hint">Anuncios publicados por día (según marca de tiempo de Revolico).</p>
+      <div class="chart-wrap"><canvas id="trend"></canvas></div>
+    </section>
+
+    <section>
+      <h2>Por provincia (ventana 30 días)</h2>
+      <div id="provinces" class="province-list">Cargando…</div>
+    </section>
+
+    <section class="about">
+      <h2>Sobre este sitio</h2>
+      <p>
+        <strong>Cuban Market Analysis</strong> es un observatorio del mercado informal cubano,
+        co-construido con <a href="https://syalia.com/" rel="noopener" target="_blank">Syalia</a>.
+        Cada noche un crawler recoge los anuncios publicados en Revolico, los normaliza y los agrega
+        por categoría, día, mes, y provincia. El sitio que estás viendo se regenera a partir de esos
+        agregados de forma determinista. Solo mostramos datos agregados — los anuncios individuales
+        siguen en Revolico.
+      </p>
+      <p>
+        Esta es la nueva generación del proyecto <a href="https://web.archive.org/web/2019/https://isladata.com/" rel="noopener" target="_blank">isladata.com</a> (2014–2021).
+        Próximos pasos: nuestra propia taxonomía de marcas y modelos, más fuentes (Cubisima,
+        Telegram, mercado cambiario), y análisis de tendencias.
+      </p>
+      <p class="meta">
+        Última actualización: <span id="last-updated">—</span> ·
+        Código del crawler en repositorio privado ·
+        <a href="https://github.com/syalia-srl/cuban-market-analysis" rel="noopener" target="_blank">Datos públicos</a>
+      </p>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

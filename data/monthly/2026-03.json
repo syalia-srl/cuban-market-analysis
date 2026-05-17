@@ -1,0 +1,79 @@
+{
+  "total_ads": 1087,
+  "by_category": {
+    "_unknown": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 1087,
+      "prices": {
+        "USD": {
+          "n": 982,
+          "median": 280.0,
+          "p25": 139.25,
+          "p75": 400.0,
+          "mean": 321.93,
+          "min": 0.3,
+          "max": 5000.0
+        },
+        "CUP": {
+          "n": 52,
+          "median": 22500.0,
+          "p25": 3000.0,
+          "p75": 90000.0,
+          "mean": 69442.33,
+          "min": 1.0,
+          "max": 360000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 1067
+    },
+    "14": {
+      "name": "Granma",
+      "count": 1
+    },
+    "10": {
+      "name": "Ciego de Ávila",
+      "count": 1
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 6
+    },
+    "3": {
+      "name": "Mayabeque",
+      "count": 1
+    },
+    "7": {
+      "name": "Cienfuegos",
+      "count": 1
+    },
+    "8": {
+      "name": "Villa Clara",
+      "count": 1
+    },
+    "2": {
+      "name": "Artemisa",
+      "count": 6
+    },
+    "9": {
+      "name": "Sancti Spíritus",
+      "count": 1
+    },
+    "12": {
+      "name": "Las Tunas",
+      "count": 1
+    },
+    "4": {
+      "name": "Pinar del Río",
+      "count": 1
+    }
+  },
+  "date": "2026-03",
+  "window": "month"
+}

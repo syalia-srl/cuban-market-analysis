@@ -1,0 +1,92 @@
+{
+  "total_ads": 2721,
+  "by_category": {
+    "_unknown": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 2721,
+      "prices": {
+        "USD": {
+          "n": 2189,
+          "median": 95.0,
+          "p25": 20.0,
+          "p75": 1380.0,
+          "mean": 53355.1,
+          "min": 0.1,
+          "max": 111111111.0
+        },
+        "CUP": {
+          "n": 345,
+          "median": 1500.0,
+          "p25": 500.0,
+          "p75": 4500.0,
+          "mean": 3560.8,
+          "min": 1.0,
+          "max": 30000.0
+        },
+        "MLC": {
+          "n": 1,
+          "median": 900.0,
+          "p25": 900.0,
+          "p75": 900.0,
+          "mean": 900.0,
+          "min": 900.0,
+          "max": 900.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 2647
+    },
+    "13": {
+      "name": "Holguín",
+      "count": 4
+    },
+    "4": {
+      "name": "Pinar del Río",
+      "count": 2
+    },
+    "3": {
+      "name": "Mayabeque",
+      "count": 13
+    },
+    "2": {
+      "name": "Artemisa",
+      "count": 26
+    },
+    "8": {
+      "name": "Villa Clara",
+      "count": 9
+    },
+    "11": {
+      "name": "Camagüey",
+      "count": 7
+    },
+    "12": {
+      "name": "Las Tunas",
+      "count": 2
+    },
+    "16": {
+      "name": "Guantánamo",
+      "count": 4
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 5
+    },
+    "15": {
+      "name": "Santiago de Cuba",
+      "count": 1
+    },
+    "14": {
+      "name": "Granma",
+      "count": 1
+    }
+  },
+  "date": "2026-05-14",
+  "window": "day"
+}

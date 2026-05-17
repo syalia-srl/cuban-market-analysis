@@ -1,0 +1,43 @@
+{
+  "total_ads": 81,
+  "by_category": {
+    "_unknown": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 81,
+      "prices": {
+        "USD": {
+          "n": 71,
+          "median": 230.0,
+          "p25": 169.5,
+          "p75": 350.0,
+          "mean": 272.23,
+          "min": 1.0,
+          "max": 1000.0
+        },
+        "CUP": {
+          "n": 4,
+          "median": 3000.0,
+          "p25": 1550.0,
+          "p75": 11750.0,
+          "mean": 10300.0,
+          "min": 200.0,
+          "max": 35000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 80
+    },
+    "4": {
+      "name": "Pinar del Río",
+      "count": 1
+    }
+  },
+  "date": "2026-03-26",
+  "window": "day"
+}

@@ -1,0 +1,47 @@
+{
+  "total_ads": 87,
+  "by_category": {
+    "_unknown": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 87,
+      "prices": {
+        "USD": {
+          "n": 80,
+          "median": 245.0,
+          "p25": 150.0,
+          "p75": 450.0,
+          "mean": 362.88,
+          "min": 1.0,
+          "max": 1600.0
+        },
+        "CUP": {
+          "n": 5,
+          "median": 10000.0,
+          "p25": 5500.0,
+          "p75": 15000.0,
+          "mean": 15900.0,
+          "min": 4000.0,
+          "max": 45000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 83
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 3
+    },
+    "2": {
+      "name": "Artemisa",
+      "count": 1
+    }
+  },
+  "date": "2026-04-03",
+  "window": "day"
+}

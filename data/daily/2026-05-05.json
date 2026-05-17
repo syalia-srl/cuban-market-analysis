@@ -1,0 +1,55 @@
+{
+  "total_ads": 634,
+  "by_category": {
+    "_unknown": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 634,
+      "prices": {
+        "USD": {
+          "n": 506,
+          "median": 100.0,
+          "p25": 20.0,
+          "p75": 340.0,
+          "mean": 26862.76,
+          "min": 1.0,
+          "max": 11111111.0
+        },
+        "CUP": {
+          "n": 73,
+          "median": 2000.0,
+          "p25": 200.0,
+          "p75": 5000.0,
+          "mean": 4026.74,
+          "min": 1.0,
+          "max": 30000.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 606
+    },
+    "13": {
+      "name": "Holguín",
+      "count": 24
+    },
+    "8": {
+      "name": "Villa Clara",
+      "count": 2
+    },
+    "7": {
+      "name": "Cienfuegos",
+      "count": 1
+    },
+    "4": {
+      "name": "Pinar del Río",
+      "count": 1
+    }
+  },
+  "date": "2026-05-05",
+  "window": "day"
+}

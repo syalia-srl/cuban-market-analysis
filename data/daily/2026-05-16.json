@@ -1,0 +1,99 @@
+{
+  "total_ads": 7659,
+  "by_category": {
+    "_unknown": {
+      "slug": "autos",
+      "name_es": null,
+      "name_en": null,
+      "count": 7659,
+      "prices": {
+        "USD": {
+          "n": 6457,
+          "median": 100.0,
+          "p25": 22.0,
+          "p75": 640.0,
+          "mean": 1892863906540.83,
+          "min": 0.1,
+          "max": 1.1111111111111112e+16
+        },
+        "CUP": {
+          "n": 729,
+          "median": 2500.0,
+          "p25": 650.0,
+          "p75": 5500.0,
+          "mean": 152420555.03,
+          "min": 1.0,
+          "max": 111111111112.0
+        }
+      }
+    }
+  },
+  "by_province": {
+    "1": {
+      "name": "La Habana",
+      "count": 7515
+    },
+    "2": {
+      "name": "Artemisa",
+      "count": 40
+    },
+    "6": {
+      "name": "Matanzas",
+      "count": 23
+    },
+    "5": {
+      "name": "Isla de la Juventud",
+      "count": 3
+    },
+    "11": {
+      "name": "Camagüey",
+      "count": 11
+    },
+    "9": {
+      "name": "Sancti Spíritus",
+      "count": 5
+    },
+    "15": {
+      "name": "Santiago de Cuba",
+      "count": 6
+    },
+    "7": {
+      "name": "Cienfuegos",
+      "count": 4
+    },
+    "8": {
+      "name": "Villa Clara",
+      "count": 14
+    },
+    "16": {
+      "name": "Guantánamo",
+      "count": 3
+    },
+    "4": {
+      "name": "Pinar del Río",
+      "count": 3
+    },
+    "14": {
+      "name": "Granma",
+      "count": 3
+    },
+    "13": {
+      "name": "Holguín",
+      "count": 6
+    },
+    "10": {
+      "name": "Ciego de Ávila",
+      "count": 4
+    },
+    "12": {
+      "name": "Las Tunas",
+      "count": 7
+    },
+    "3": {
+      "name": "Mayabeque",
+      "count": 12
+    }
+  },
+  "date": "2026-05-16",
+  "window": "day"
+}

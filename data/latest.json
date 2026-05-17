@@ -1,0 +1,542 @@
+{
+  "generated_at": "2026-05-17T01:11:24.949841+00:00",
+  "windows": {
+    "24h": {
+      "total_ads": 7492,
+      "by_category": {
+        "_unknown": {
+          "slug": "autos",
+          "name_es": null,
+          "name_en": null,
+          "count": 7492,
+          "prices": {
+            "USD": {
+              "n": 6308,
+              "median": 100.0,
+              "p25": 23.0,
+              "p75": 640.0,
+              "mean": 1937574864350.45,
+              "min": 0.1,
+              "max": 1.1111111111111112e+16
+            },
+            "CUP": {
+              "n": 718,
+              "median": 2500.0,
+              "p25": 600.0,
+              "p75": 5500.0,
+              "mean": 154755581.78,
+              "min": 1.0,
+              "max": 111111111112.0
+            }
+          }
+        }
+      },
+      "by_province": {
+        "1": {
+          "name": "La Habana",
+          "count": 7351
+        },
+        "2": {
+          "name": "Artemisa",
+          "count": 38
+        },
+        "6": {
+          "name": "Matanzas",
+          "count": 23
+        },
+        "5": {
+          "name": "Isla de la Juventud",
+          "count": 3
+        },
+        "11": {
+          "name": "Camagüey",
+          "count": 11
+        },
+        "9": {
+          "name": "Sancti Spíritus",
+          "count": 5
+        },
+        "15": {
+          "name": "Santiago de Cuba",
+          "count": 6
+        },
+        "7": {
+          "name": "Cienfuegos",
+          "count": 4
+        },
+        "8": {
+          "name": "Villa Clara",
+          "count": 14
+        },
+        "16": {
+          "name": "Guantánamo",
+          "count": 3
+        },
+        "4": {
+          "name": "Pinar del Río",
+          "count": 3
+        },
+        "14": {
+          "name": "Granma",
+          "count": 3
+        },
+        "13": {
+          "name": "Holguín",
+          "count": 5
+        },
+        "10": {
+          "name": "Ciego de Ávila",
+          "count": 4
+        },
+        "12": {
+          "name": "Las Tunas",
+          "count": 7
+        },
+        "3": {
+          "name": "Mayabeque",
+          "count": 12
+        }
+      }
+    },
+    "7d": {
+      "total_ads": 19648,
+      "by_category": {
+        "_unknown": {
+          "slug": "autos",
+          "name_es": null,
+          "name_en": null,
+          "count": 19648,
+          "prices": {
+            "USD": {
+              "n": 15869,
+              "median": 100.0,
+              "p25": 20.0,
+              "p75": 660.0,
+              "mean": 770195008220.73,
+              "min": 0.1,
+              "max": 1.1111111111111112e+16
+            },
+            "CUP": {
+              "n": 2150,
+              "median": 2000.0,
+              "p25": 450.0,
+              "p75": 5000.0,
+              "mean": 5225367715.44,
+              "min": 0.1,
+              "max": 11111111111112.0
+            },
+            "MLC": {
+              "n": 1,
+              "median": 900.0,
+              "p25": 900.0,
+              "p75": 900.0,
+              "mean": 900.0,
+              "min": 900.0,
+              "max": 900.0
+            }
+          }
+        }
+      },
+      "by_province": {
+        "1": {
+          "name": "La Habana",
+          "count": 19286
+        },
+        "2": {
+          "name": "Artemisa",
+          "count": 102
+        },
+        "13": {
+          "name": "Holguín",
+          "count": 18
+        },
+        "6": {
+          "name": "Matanzas",
+          "count": 44
+        },
+        "8": {
+          "name": "Villa Clara",
+          "count": 50
+        },
+        "5": {
+          "name": "Isla de la Juventud",
+          "count": 4
+        },
+        "11": {
+          "name": "Camagüey",
+          "count": 25
+        },
+        "4": {
+          "name": "Pinar del Río",
+          "count": 13
+        },
+        "12": {
+          "name": "Las Tunas",
+          "count": 15
+        },
+        "9": {
+          "name": "Sancti Spíritus",
+          "count": 8
+        },
+        "3": {
+          "name": "Mayabeque",
+          "count": 36
+        },
+        "15": {
+          "name": "Santiago de Cuba",
+          "count": 15
+        },
+        "10": {
+          "name": "Ciego de Ávila",
+          "count": 8
+        },
+        "7": {
+          "name": "Cienfuegos",
+          "count": 8
+        },
+        "16": {
+          "name": "Guantánamo",
+          "count": 12
+        },
+        "14": {
+          "name": "Granma",
+          "count": 4
+        }
+      }
+    },
+    "30d": {
+      "total_ads": 26133,
+      "by_category": {
+        "_unknown": {
+          "slug": "autos",
+          "name_es": null,
+          "name_en": null,
+          "count": 26133,
+          "prices": {
+            "USD": {
+              "n": 20904,
+              "median": 100.0,
+              "p25": 20.0,
+              "p75": 500.0,
+              "mean": 1127859813431.59,
+              "min": 0.1,
+              "max": 1.1111111111111112e+16
+            },
+            "CUP": {
+              "n": 3019,
+              "median": 1700.0,
+              "p25": 400.0,
+              "p75": 5000.0,
+              "mean": 4089687726.64,
+              "min": 0.1,
+              "max": 11111111111112.0
+            },
+            "MLC": {
+              "n": 1,
+              "median": 900.0,
+              "p25": 900.0,
+              "p75": 900.0,
+              "mean": 900.0,
+              "min": 900.0,
+              "max": 900.0
+            }
+          }
+        }
+      },
+      "by_province": {
+        "1": {
+          "name": "La Habana",
+          "count": 25675
+        },
+        "2": {
+          "name": "Artemisa",
+          "count": 116
+        },
+        "13": {
+          "name": "Holguín",
+          "count": 44
+        },
+        "6": {
+          "name": "Matanzas",
+          "count": 57
+        },
+        "8": {
+          "name": "Villa Clara",
+          "count": 56
+        },
+        "5": {
+          "name": "Isla de la Juventud",
+          "count": 5
+        },
+        "11": {
+          "name": "Camagüey",
+          "count": 26
+        },
+        "4": {
+          "name": "Pinar del Río",
+          "count": 17
+        },
+        "12": {
+          "name": "Las Tunas",
+          "count": 16
+        },
+        "9": {
+          "name": "Sancti Spíritus",
+          "count": 10
+        },
+        "3": {
+          "name": "Mayabeque",
+          "count": 48
+        },
+        "15": {
+          "name": "Santiago de Cuba",
+          "count": 25
+        },
+        "10": {
+          "name": "Ciego de Ávila",
+          "count": 8
+        },
+        "7": {
+          "name": "Cienfuegos",
+          "count": 9
+        },
+        "16": {
+          "name": "Guantánamo",
+          "count": 15
+        },
+        "14": {
+          "name": "Granma",
+          "count": 6
+        }
+      }
+    },
+    "all": {
+      "total_ads": 28690,
+      "by_category": {
+        "_unknown": {
+          "slug": "autos",
+          "name_es": null,
+          "name_en": null,
+          "count": 28690,
+          "prices": {
+            "USD": {
+              "n": 23182,
+              "median": 120.0,
+              "p25": 25.0,
+              "p75": 480.0,
+              "mean": 1017030137692.93,
+              "min": 0.1,
+              "max": 1.1111111111111112e+16
+            },
+            "CUP": {
+              "n": 3129,
+              "median": 1900.0,
+              "p25": 400.0,
+              "p75": 5000.0,
+              "mean": 3945916323.09,
+              "min": 0.1,
+              "max": 11111111111112.0
+            },
+            "MLC": {
+              "n": 1,
+              "median": 900.0,
+              "p25": 900.0,
+              "p75": 900.0,
+              "mean": 900.0,
+              "min": 900.0,
+              "max": 900.0
+            }
+          }
+        }
+      },
+      "by_province": {
+        "1": {
+          "name": "La Habana",
+          "count": 28184
+        },
+        "2": {
+          "name": "Artemisa",
+          "count": 127
+        },
+        "13": {
+          "name": "Holguín",
+          "count": 44
+        },
+        "6": {
+          "name": "Matanzas",
+          "count": 71
+        },
+        "8": {
+          "name": "Villa Clara",
+          "count": 57
+        },
+        "5": {
+          "name": "Isla de la Juventud",
+          "count": 6
+        },
+        "11": {
+          "name": "Camagüey",
+          "count": 26
+        },
+        "4": {
+          "name": "Pinar del Río",
+          "count": 19
+        },
+        "12": {
+          "name": "Las Tunas",
+          "count": 22
+        },
+        "9": {
+          "name": "Sancti Spíritus",
+          "count": 11
+        },
+        "3": {
+          "name": "Mayabeque",
+          "count": 53
+        },
+        "15": {
+          "name": "Santiago de Cuba",
+          "count": 26
+        },
+        "10": {
+          "name": "Ciego de Ávila",
+          "count": 11
+        },
+        "7": {
+          "name": "Cienfuegos",
+          "count": 11
+        },
+        "16": {
+          "name": "Guantánamo",
+          "count": 15
+        },
+        "14": {
+          "name": "Granma",
+          "count": 7
+        }
+      }
+    }
+  },
+  "trend_30d": [
+    {
+      "date": "2026-04-18",
+      "total": 81
+    },
+    {
+      "date": "2026-04-19",
+      "total": 52
+    },
+    {
+      "date": "2026-04-20",
+      "total": 97
+    },
+    {
+      "date": "2026-04-21",
+      "total": 94
+    },
+    {
+      "date": "2026-04-22",
+      "total": 157
+    },
+    {
+      "date": "2026-04-23",
+      "total": 88
+    },
+    {
+      "date": "2026-04-24",
+      "total": 122
+    },
+    {
+      "date": "2026-04-25",
+      "total": 114
+    },
+    {
+      "date": "2026-04-26",
+      "total": 69
+    },
+    {
+      "date": "2026-04-27",
+      "total": 126
+    },
+    {
+      "date": "2026-04-28",
+      "total": 132
+    },
+    {
+      "date": "2026-04-29",
+      "total": 146
+    },
+    {
+      "date": "2026-04-30",
+      "total": 428
+    },
+    {
+      "date": "2026-05-01",
+      "total": 448
+    },
+    {
+      "date": "2026-05-02",
+      "total": 461
+    },
+    {
+      "date": "2026-05-03",
+      "total": 475
+    },
+    {
+      "date": "2026-05-04",
+      "total": 547
+    },
+    {
+      "date": "2026-05-05",
+      "total": 634
+    },
+    {
+      "date": "2026-05-06",
+      "total": 529
+    },
+    {
+      "date": "2026-05-07",
+      "total": 484
+    },
+    {
+      "date": "2026-05-08",
+      "total": 444
+    },
+    {
+      "date": "2026-05-09",
+      "total": 598
+    },
+    {
+      "date": "2026-05-10",
+      "total": 390
+    },
+    {
+      "date": "2026-05-11",
+      "total": 655
+    },
+    {
+      "date": "2026-05-12",
+      "total": 782
+    },
+    {
+      "date": "2026-05-13",
+      "total": 2555
+    },
+    {
+      "date": "2026-05-14",
+      "total": 2721
+    },
+    {
+      "date": "2026-05-15",
+      "total": 4966
+    },
+    {
+      "date": "2026-05-16",
+      "total": 7659
+    },
+    {
+      "date": "2026-05-17",
+      "total": 1
+    }
+  ]
+}
