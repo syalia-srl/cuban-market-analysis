@@ -1,7 +1,7 @@
 {
   "total_ads": 1087,
   "by_category": {
-    "_unknown": {
+    "computadoras": {
       "slug": "computadoras",
       "name_es": null,
       "name_en": null,

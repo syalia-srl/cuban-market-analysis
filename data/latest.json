@@ -1,32 +1,84 @@
 {
-  "generated_at": "2026-05-17T01:11:24.949841+00:00",
+  "generated_at": "2026-05-17T01:22:23.285440+00:00",
   "windows": {
     "24h": {
-      "total_ads": 7492,
+      "total_ads": 7593,
       "by_category": {
-        "_unknown": {
+        "autos": {
           "slug": "autos",
           "name_es": null,
           "name_en": null,
-          "count": 7492,
+          "count": 4128,
           "prices": {
             "USD": {
-              "n": 6308,
-              "median": 100.0,
-              "p25": 23.0,
-              "p75": 640.0,
-              "mean": 1937574864350.45,
+              "n": 3500,
+              "median": 120.0,
+              "p25": 25.0,
+              "p75": 1660.0,
+              "mean": 3492063498180.7,
               "min": 0.1,
               "max": 1.1111111111111112e+16
             },
             "CUP": {
-              "n": 718,
-              "median": 2500.0,
-              "p25": 600.0,
-              "p75": 5500.0,
-              "mean": 154755581.78,
+              "n": 362,
+              "median": 3500.0,
+              "p25": 1000.0,
+              "p75": 6000.0,
+              "mean": 5283.57,
+              "min": 1.0,
+              "max": 60000.0
+            }
+          }
+        },
+        "compra-venta": {
+          "slug": "compra-venta",
+          "name_es": null,
+          "name_en": null,
+          "count": 2102,
+          "prices": {
+            "CUP": {
+              "n": 345,
+              "median": 1500.0,
+              "p25": 550.0,
+              "p75": 5000.0,
+              "mean": 322065134.08,
               "min": 1.0,
               "max": 111111111112.0
+            },
+            "USD": {
+              "n": 1590,
+              "median": 25.5,
+              "p25": 10.0,
+              "p75": 70.0,
+              "mean": 68.84,
+              "min": 0.1,
+              "max": 11111.0
+            }
+          }
+        },
+        "computadoras": {
+          "slug": "computadoras",
+          "name_es": null,
+          "name_en": null,
+          "count": 1363,
+          "prices": {
+            "USD": {
+              "n": 1306,
+              "median": 390.0,
+              "p25": 270.0,
+              "p75": 560.0,
+              "mean": 558.64,
+              "min": 0.1,
+              "max": 100000.0
+            },
+            "CUP": {
+              "n": 18,
+              "median": 2000.0,
+              "p25": 182.5,
+              "p75": 14250.0,
+              "mean": 8956.39,
+              "min": 1.0,
+              "max": 60000.0
             }
           }
         }
@@ -34,7 +86,7 @@
       "by_province": {
         "1": {
           "name": "La Habana",
-          "count": 7351
+          "count": 7451
         },
         "2": {
           "name": "Artemisa",
@@ -94,36 +146,36 @@
         },
         "3": {
           "name": "Mayabeque",
-          "count": 12
+          "count": 13
         }
       }
     },
     "7d": {
-      "total_ads": 19648,
+      "total_ads": 19719,
       "by_category": {
-        "_unknown": {
+        "autos": {
           "slug": "autos",
           "name_es": null,
           "name_en": null,
-          "count": 19648,
+          "count": 10049,
           "prices": {
             "USD": {
-              "n": 15869,
-              "median": 100.0,
-              "p25": 20.0,
-              "p75": 660.0,
-              "mean": 770195008220.73,
+              "n": 8548,
+              "median": 150.0,
+              "p25": 25.0,
+              "p75": 1860.0,
+              "mean": 1429834285433.4,
               "min": 0.1,
               "max": 1.1111111111111112e+16
             },
             "CUP": {
-              "n": 2150,
-              "median": 2000.0,
-              "p25": 450.0,
-              "p75": 5000.0,
-              "mean": 5225367715.44,
+              "n": 849,
+              "median": 3500.0,
+              "p25": 1200.0,
+              "p75": 7000.0,
+              "mean": 5581.52,
               "min": 0.1,
-              "max": 11111111111112.0
+              "max": 65000.0
             },
             "MLC": {
               "n": 1,
@@ -135,12 +187,64 @@
               "max": 900.0
             }
           }
+        },
+        "computadoras": {
+          "slug": "computadoras",
+          "name_es": null,
+          "name_en": null,
+          "count": 3197,
+          "prices": {
+            "USD": {
+              "n": 2800,
+              "median": 365.0,
+              "p25": 200.0,
+              "p75": 520.0,
+              "mean": 486.63,
+              "min": 0.1,
+              "max": 100000.0
+            },
+            "CUP": {
+              "n": 62,
+              "median": 5000.0,
+              "p25": 775.0,
+              "p75": 25750.0,
+              "mean": 179228334.68,
+              "min": 1.0,
+              "max": 11111111111.0
+            }
+          }
+        },
+        "compra-venta": {
+          "slug": "compra-venta",
+          "name_es": null,
+          "name_en": null,
+          "count": 6473,
+          "prices": {
+            "CUP": {
+              "n": 1245,
+              "median": 1000.0,
+              "p25": 300.0,
+              "p75": 3000.0,
+              "mean": 9014798179.87,
+              "min": 1.0,
+              "max": 11111111111112.0
+            },
+            "USD": {
+              "n": 4581,
+              "median": 25.0,
+              "p25": 8.0,
+              "p75": 65.0,
+              "mean": 242818.64,
+              "min": 0.1,
+              "max": 999999999.0
+            }
+          }
         }
       },
       "by_province": {
         "1": {
           "name": "La Habana",
-          "count": 19286
+          "count": 19356
         },
         "2": {
           "name": "Artemisa",
@@ -180,7 +284,7 @@
         },
         "3": {
           "name": "Mayabeque",
-          "count": 36
+          "count": 37
         },
         "15": {
           "name": "Santiago de Cuba",
@@ -205,31 +309,31 @@
       }
     },
     "30d": {
-      "total_ads": 26133,
+      "total_ads": 26201,
       "by_category": {
-        "_unknown": {
+        "autos": {
           "slug": "autos",
           "name_es": null,
           "name_en": null,
-          "count": 26133,
+          "count": 10049,
           "prices": {
             "USD": {
-              "n": 20904,
-              "median": 100.0,
-              "p25": 20.0,
-              "p75": 500.0,
-              "mean": 1127859813431.59,
+              "n": 8548,
+              "median": 150.0,
+              "p25": 25.0,
+              "p75": 1860.0,
+              "mean": 1429834285433.4,
               "min": 0.1,
               "max": 1.1111111111111112e+16
             },
             "CUP": {
-              "n": 3019,
-              "median": 1700.0,
-              "p25": 400.0,
-              "p75": 5000.0,
-              "mean": 4089687726.64,
+              "n": 849,
+              "median": 3500.0,
+              "p25": 1200.0,
+              "p75": 7000.0,
+              "mean": 5581.52,
               "min": 0.1,
-              "max": 11111111111112.0
+              "max": 65000.0
             },
             "MLC": {
               "n": 1,
@@ -241,12 +345,64 @@
               "max": 900.0
             }
           }
+        },
+        "computadoras": {
+          "slug": "computadoras",
+          "name_es": null,
+          "name_en": null,
+          "count": 6136,
+          "prices": {
+            "USD": {
+              "n": 5499,
+              "median": 345.0,
+              "p25": 180.0,
+              "p75": 490.0,
+              "mean": 2064840278493.1,
+              "min": 0.1,
+              "max": 1.1111111111111112e+16
+            },
+            "CUP": {
+              "n": 152,
+              "median": 6000.0,
+              "p25": 925.0,
+              "p75": 20875.0,
+              "mean": 73113461.52,
+              "min": 0.1,
+              "max": 11111111111.0
+            }
+          }
+        },
+        "compra-venta": {
+          "slug": "compra-venta",
+          "name_es": null,
+          "name_en": null,
+          "count": 10016,
+          "prices": {
+            "CUP": {
+              "n": 2024,
+              "median": 1000.0,
+              "p25": 300.0,
+              "p75": 3300.0,
+              "mean": 6094688390.84,
+              "min": 0.1,
+              "max": 11111111111112.0
+            },
+            "USD": {
+              "n": 6914,
+              "median": 25.0,
+              "p25": 8.0,
+              "p75": 70.0,
+              "mean": 199132.2,
+              "min": 0.1,
+              "max": 999999999.0
+            }
+          }
         }
       },
       "by_province": {
         "1": {
           "name": "La Habana",
-          "count": 25675
+          "count": 25742
         },
         "2": {
           "name": "Artemisa",
@@ -286,7 +442,7 @@
         },
         "3": {
           "name": "Mayabeque",
-          "count": 48
+          "count": 49
         },
         "15": {
           "name": "Santiago de Cuba",
@@ -311,31 +467,31 @@
       }
     },
     "all": {
-      "total_ads": 28690,
+      "total_ads": 28759,
       "by_category": {
-        "_unknown": {
+        "autos": {
           "slug": "autos",
           "name_es": null,
           "name_en": null,
-          "count": 28690,
+          "count": 10049,
           "prices": {
             "USD": {
-              "n": 23182,
-              "median": 120.0,
+              "n": 8548,
+              "median": 150.0,
               "p25": 25.0,
-              "p75": 480.0,
-              "mean": 1017030137692.93,
+              "p75": 1860.0,
+              "mean": 1429834285433.4,
               "min": 0.1,
               "max": 1.1111111111111112e+16
             },
             "CUP": {
-              "n": 3129,
-              "median": 1900.0,
-              "p25": 400.0,
-              "p75": 5000.0,
-              "mean": 3945916323.09,
+              "n": 849,
+              "median": 3500.0,
+              "p25": 1200.0,
+              "p75": 7000.0,
+              "mean": 5581.52,
               "min": 0.1,
-              "max": 11111111111112.0
+              "max": 65000.0
             },
             "MLC": {
               "n": 1,
@@ -347,12 +503,64 @@
               "max": 900.0
             }
           }
+        },
+        "computadoras": {
+          "slug": "computadoras",
+          "name_es": null,
+          "name_en": null,
+          "count": 8694,
+          "prices": {
+            "USD": {
+              "n": 7778,
+              "median": 330.0,
+              "p25": 169.0,
+              "p75": 480.0,
+              "mean": 1459831293836.08,
+              "min": 0.1,
+              "max": 1.1111111111111112e+16
+            },
+            "CUP": {
+              "n": 262,
+              "median": 9000.0,
+              "p25": 2000.0,
+              "p75": 30000.0,
+              "mean": 42435780.12,
+              "min": 0.1,
+              "max": 11111111111.0
+            }
+          }
+        },
+        "compra-venta": {
+          "slug": "compra-venta",
+          "name_es": null,
+          "name_en": null,
+          "count": 10016,
+          "prices": {
+            "CUP": {
+              "n": 2024,
+              "median": 1000.0,
+              "p25": 300.0,
+              "p75": 3300.0,
+              "mean": 6094688390.84,
+              "min": 0.1,
+              "max": 11111111111112.0
+            },
+            "USD": {
+              "n": 6914,
+              "median": 25.0,
+              "p25": 8.0,
+              "p75": 70.0,
+              "mean": 199132.2,
+              "min": 0.1,
+              "max": 999999999.0
+            }
+          }
         }
       },
       "by_province": {
         "1": {
           "name": "La Habana",
-          "count": 28184
+          "count": 28252
         },
         "2": {
           "name": "Artemisa",
@@ -392,7 +600,7 @@
         },
         "3": {
           "name": "Mayabeque",
-          "count": 53
+          "count": 54
         },
         "15": {
           "name": "Santiago de Cuba",
@@ -488,7 +696,7 @@
     },
     {
       "date": "2026-05-05",
-      "total": 634
+      "total": 632
     },
     {
       "date": "2026-05-06",
@@ -508,7 +716,7 @@
     },
     {
       "date": "2026-05-10",
-      "total": 390
+      "total": 388
     },
     {
       "date": "2026-05-11",
@@ -516,27 +724,27 @@
     },
     {
       "date": "2026-05-12",
-      "total": 782
+      "total": 780
     },
     {
       "date": "2026-05-13",
-      "total": 2555
+      "total": 2548
     },
     {
       "date": "2026-05-14",
-      "total": 2721
+      "total": 2713
     },
     {
       "date": "2026-05-15",
-      "total": 4966
+      "total": 4948
     },
     {
       "date": "2026-05-16",
-      "total": 7659
+      "total": 7669
     },
     {
       "date": "2026-05-17",
-      "total": 1
+      "total": 99
     }
   ]
 }

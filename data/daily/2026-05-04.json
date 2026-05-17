@@ -1,29 +1,55 @@
 {
   "total_ads": 547,
   "by_category": {
-    "_unknown": {
+    "computadoras": {
       "slug": "computadoras",
       "name_es": null,
       "name_en": null,
-      "count": 547,
+      "count": 168,
       "prices": {
         "USD": {
-          "n": 418,
-          "median": 62.5,
-          "p25": 16.25,
-          "p75": 270.0,
-          "mean": 271328.39,
+          "n": 158,
+          "median": 300.0,
+          "p25": 150.0,
+          "p75": 387.5,
+          "mean": 297.7,
           "min": 1.0,
-          "max": 111111111.0
+          "max": 1100.0
         },
         "CUP": {
-          "n": 81,
-          "median": 800.0,
-          "p25": 200.0,
-          "p75": 3000.0,
-          "mean": 3142.84,
+          "n": 5,
+          "median": 15000.0,
+          "p25": 4500.0,
+          "p75": 15000.0,
+          "mean": 11766.0,
+          "min": 330.0,
+          "max": 24000.0
+        }
+      }
+    },
+    "compra-venta": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 379,
+      "prices": {
+        "CUP": {
+          "n": 76,
+          "median": 605.0,
+          "p25": 195.0,
+          "p75": 2850.0,
+          "mean": 2575.53,
           "min": 1.0,
           "max": 28000.0
+        },
+        "USD": {
+          "n": 260,
+          "median": 25.5,
+          "p25": 1.0,
+          "p75": 65.0,
+          "mean": 436031.66,
+          "min": 1.0,
+          "max": 111111111.0
         }
       }
     }

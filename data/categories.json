@@ -548,6 +548,8 @@
     }
   ],
   "totals": {
-    "_unknown": 28690
+    "autos": 10049,
+    "computadoras": 8694,
+    "compra-venta": 10016
   }
 }

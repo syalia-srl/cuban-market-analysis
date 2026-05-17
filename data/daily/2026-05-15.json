@@ -1,29 +1,81 @@
 {
-  "total_ads": 4966,
+  "total_ads": 4948,
   "by_category": {
-    "_unknown": {
+    "computadoras": {
       "slug": "computadoras",
       "name_es": null,
       "name_en": null,
-      "count": 4966,
+      "count": 835,
       "prices": {
         "USD": {
-          "n": 3863,
-          "median": 80.0,
-          "p25": 20.0,
-          "p75": 592.5,
-          "mean": 27558.04,
+          "n": 582,
+          "median": 300.0,
+          "p25": 130.0,
+          "p75": 450.0,
+          "mean": 384.7,
           "min": 0.1,
+          "max": 4040.0
+        },
+        "CUP": {
+          "n": 14,
+          "median": 6250.0,
+          "p25": 1000.0,
+          "p75": 22500.0,
+          "mean": 13203.86,
+          "min": 4.0,
+          "max": 45000.0
+        }
+      }
+    },
+    "autos": {
+      "slug": "autos",
+      "name_es": null,
+      "name_en": null,
+      "count": 2836,
+      "prices": {
+        "USD": {
+          "n": 2411,
+          "median": 100.0,
+          "p25": 25.0,
+          "p75": 1635.0,
+          "mean": 43992.04,
+          "min": 0.5,
           "max": 100000000.0
         },
         "CUP": {
-          "n": 519,
-          "median": 2000.0,
-          "p25": 450.0,
-          "p75": 5000.0,
-          "mean": 4442.62,
+          "n": 238,
+          "median": 4500.0,
+          "p25": 2000.0,
+          "p75": 7000.0,
+          "mean": 6734.61,
           "min": 1.0,
           "max": 65000.0
+        }
+      }
+    },
+    "compra-venta": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 1277,
+      "prices": {
+        "USD": {
+          "n": 855,
+          "median": 20.0,
+          "p25": 5.0,
+          "p75": 50.0,
+          "mean": 193.97,
+          "min": 0.1,
+          "max": 111111.0
+        },
+        "CUP": {
+          "n": 265,
+          "median": 750.0,
+          "p25": 150.0,
+          "p75": 2500.0,
+          "mean": 1943.51,
+          "min": 1.0,
+          "max": 20000.0
         }
       }
     }
@@ -31,7 +83,7 @@
   "by_province": {
     "1": {
       "name": "La Habana",
-      "count": 4908
+      "count": 4890
     },
     "10": {
       "name": "Ciego de Ávila",

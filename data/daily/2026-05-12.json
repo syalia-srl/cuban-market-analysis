@@ -1,27 +1,53 @@
 {
-  "total_ads": 782,
+  "total_ads": 780,
   "by_category": {
-    "_unknown": {
+    "computadoras": {
       "slug": "computadoras",
       "name_es": null,
       "name_en": null,
-      "count": 782,
+      "count": 213,
       "prices": {
         "USD": {
-          "n": 520,
-          "median": 50.0,
-          "p25": 14.0,
-          "p75": 300.0,
-          "mean": 1923380.52,
+          "n": 191,
+          "median": 340.0,
+          "p25": 169.0,
+          "p75": 495.0,
+          "mean": 376.49,
+          "min": 1.0,
+          "max": 1480.0
+        },
+        "CUP": {
+          "n": 5,
+          "median": 5000.0,
+          "p25": 4500.0,
+          "p75": 8000.0,
+          "mean": 7524.6,
+          "min": 123.0,
+          "max": 20000.0
+        }
+      }
+    },
+    "compra-venta": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 567,
+      "prices": {
+        "USD": {
+          "n": 327,
+          "median": 25.0,
+          "p25": 10.0,
+          "p75": 70.0,
+          "mean": 3058366.84,
           "min": 0.45,
           "max": 999999999.0
         },
         "CUP": {
-          "n": 168,
+          "n": 163,
           "median": 400.0,
           "p25": 1.0,
-          "p75": 3125.0,
-          "mean": 66137569037.14,
+          "p75": 3000.0,
+          "mean": 68166328592.74,
           "min": 1.0,
           "max": 11111111111112.0
         }
@@ -31,7 +57,7 @@
   "by_province": {
     "1": {
       "name": "La Habana",
-      "count": 774
+      "count": 772
     },
     "2": {
       "name": "Artemisa",

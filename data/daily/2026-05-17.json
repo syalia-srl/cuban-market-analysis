@@ -1,20 +1,72 @@
 {
-  "total_ads": 1,
+  "total_ads": 99,
   "by_category": {
-    "_unknown": {
+    "computadoras": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 21,
+      "prices": {
+        "USD": {
+          "n": 21,
+          "median": 270.0,
+          "p25": 139.0,
+          "p75": 340.0,
+          "mean": 311.33,
+          "min": 1.0,
+          "max": 950.0
+        }
+      }
+    },
+    "autos": {
       "slug": "autos",
       "name_es": null,
       "name_en": null,
-      "count": 1,
+      "count": 53,
       "prices": {
         "USD": {
-          "n": 1,
-          "median": 4550.0,
-          "p25": 4550.0,
-          "p75": 4550.0,
-          "mean": 4550.0,
-          "min": 4550.0,
-          "max": 4550.0
+          "n": 48,
+          "median": 1325.0,
+          "p25": 48.75,
+          "p75": 4627.5,
+          "mean": 2547.4,
+          "min": 1.0,
+          "max": 20000.0
+        },
+        "CUP": {
+          "n": 4,
+          "median": 2880.0,
+          "p25": 2710.0,
+          "p75": 2985.0,
+          "mean": 2815.0,
+          "min": 2500.0,
+          "max": 3000.0
+        }
+      }
+    },
+    "compra-venta": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 25,
+      "prices": {
+        "USD": {
+          "n": 19,
+          "median": 12.0,
+          "p25": 5.25,
+          "p75": 75.0,
+          "mean": 41.13,
+          "min": 1.0,
+          "max": 190.0
+        },
+        "CUP": {
+          "n": 4,
+          "median": 600.0,
+          "p25": 376.25,
+          "p75": 775.0,
+          "mean": 551.25,
+          "min": 5.0,
+          "max": 1000.0
         }
       }
     }
@@ -22,6 +74,10 @@
   "by_province": {
     "1": {
       "name": "La Habana",
+      "count": 98
+    },
+    "3": {
+      "name": "Mayabeque",
       "count": 1
     }
   },

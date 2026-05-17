@@ -1,29 +1,55 @@
 {
-  "total_ads": 390,
+  "total_ads": 388,
   "by_category": {
-    "_unknown": {
+    "compra-venta": {
       "slug": "compra-venta",
       "name_es": null,
       "name_en": null,
-      "count": 390,
+      "count": 273,
       "prices": {
         "CUP": {
-          "n": 60,
+          "n": 56,
           "median": 1.0,
           "p25": 1.0,
-          "p75": 625.0,
-          "mean": 2897.33,
+          "p75": 500.0,
+          "mean": 772.14,
           "min": 1.0,
-          "max": 103000.0
+          "max": 8000.0
         },
         "USD": {
-          "n": 273,
-          "median": 80.0,
-          "p25": 20.0,
-          "p75": 290.0,
-          "mean": 687.1,
+          "n": 161,
+          "median": 25.0,
+          "p25": 10.0,
+          "p75": 70.0,
+          "mean": 882.02,
           "min": 1.0,
           "max": 111111.0
+        }
+      }
+    },
+    "computadoras": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 115,
+      "prices": {
+        "USD": {
+          "n": 110,
+          "median": 325.0,
+          "p25": 152.5,
+          "p75": 480.0,
+          "mean": 413.86,
+          "min": 1.0,
+          "max": 5200.0
+        },
+        "CUP": {
+          "n": 4,
+          "median": 13500.0,
+          "p25": 900.0,
+          "p75": 45250.0,
+          "mean": 32650.0,
+          "min": 600.0,
+          "max": 103000.0
         }
       }
     }
@@ -31,7 +57,7 @@
   "by_province": {
     "1": {
       "name": "La Habana",
-      "count": 385
+      "count": 383
     },
     "7": {
       "name": "Cienfuegos",

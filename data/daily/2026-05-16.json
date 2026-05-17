@@ -1,29 +1,81 @@
 {
-  "total_ads": 7659,
+  "total_ads": 7669,
   "by_category": {
-    "_unknown": {
+    "autos": {
       "slug": "autos",
       "name_es": null,
       "name_en": null,
-      "count": 7659,
+      "count": 4166,
       "prices": {
         "USD": {
-          "n": 6457,
-          "median": 100.0,
-          "p25": 22.0,
-          "p75": 640.0,
-          "mean": 1892863906540.83,
+          "n": 3535,
+          "median": 120.0,
+          "p25": 25.0,
+          "p75": 1650.0,
+          "mean": 3457488612053.28,
           "min": 0.1,
           "max": 1.1111111111111112e+16
         },
         "CUP": {
-          "n": 729,
-          "median": 2500.0,
-          "p25": 650.0,
-          "p75": 5500.0,
-          "mean": 152420555.03,
+          "n": 360,
+          "median": 3500.0,
+          "p25": 1000.0,
+          "p75": 6075.0,
+          "mean": 5291.36,
+          "min": 1.0,
+          "max": 60000.0
+        }
+      }
+    },
+    "compra-venta": {
+      "slug": "compra-venta",
+      "name_es": null,
+      "name_en": null,
+      "count": 2142,
+      "prices": {
+        "CUP": {
+          "n": 349,
+          "median": 1500.0,
+          "p25": 600.0,
+          "p75": 5000.0,
+          "mean": 318373911.9,
           "min": 1.0,
           "max": 111111111112.0
+        },
+        "USD": {
+          "n": 1628,
+          "median": 27.0,
+          "p25": 10.0,
+          "p75": 70.0,
+          "mean": 143.5,
+          "min": 0.1,
+          "max": 111111.0
+        }
+      }
+    },
+    "computadoras": {
+      "slug": "computadoras",
+      "name_es": null,
+      "name_en": null,
+      "count": 1361,
+      "prices": {
+        "USD": {
+          "n": 1301,
+          "median": 390.0,
+          "p25": 270.0,
+          "p75": 560.0,
+          "mean": 558.17,
+          "min": 0.1,
+          "max": 100000.0
+        },
+        "CUP": {
+          "n": 20,
+          "median": 3250.0,
+          "p25": 527.5,
+          "p75": 20000.0,
+          "mean": 10760.75,
+          "min": 1.0,
+          "max": 60000.0
         }
       }
     }
@@ -31,7 +83,7 @@
   "by_province": {
     "1": {
       "name": "La Habana",
-      "count": 7515
+      "count": 7525
     },
     "2": {
       "name": "Artemisa",
